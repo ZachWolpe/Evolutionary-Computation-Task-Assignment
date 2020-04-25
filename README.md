@@ -4,9 +4,7 @@ see pdf for report
 
 Software Implementation of Metaheuristics:
 
-## Genetic Algorithms
-## Simulated Annealing
-## Particle Swarm Optimization 
+### Genetic Algorithms, Simulated Annealing & Particle Swarm Optimization 
 
 A first principles implemenation of GA, SA & PSO to solve a 2^150 knapsack instance.
 
